@@ -11,6 +11,13 @@ A **seed** AngularJS project using:
 
 This project demonstrates how AngularJS can be used with Webpack and ES6 via the provided webpack configuration files.
 
+# Quick Start
+
+```
+npm install
+gulp
+```
+
 # Development Environment Provisioning
 
 Please read the [provisioning](./provision/README.md) section for setting up the development environment.
@@ -24,11 +31,4 @@ To install ESLint:
 
 ```
 npm install -g eslint
-```
-
-# Quick Start
-
-```
-npm install
-gulp
 ```
